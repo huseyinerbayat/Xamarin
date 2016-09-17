@@ -1,0 +1,13 @@
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\bin\Debug\XamarinTimer.dll
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\bin\Debug\XamarinTimer.pdb
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\obj\Debug\XamarinTimer.csprojResolveAssemblyReference.cache
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\obj\Debug\XamarinTimer.TimerPage.xaml.g.cs
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\obj\Debug\XamarinTimer.dll
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\obj\Debug\XamarinTimer.pdb
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\obj\Debug\XamarinTimer.dll.mdb
+c:\users\erbayat\documents\visual studio 2015\Projects\xamarin-blog\XamarinTimer\XamarinTimer\XamarinTimer\bin\Debug\XamarinTimer.dll.mdb

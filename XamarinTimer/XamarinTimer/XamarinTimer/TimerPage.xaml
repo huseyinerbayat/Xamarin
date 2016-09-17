@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinTimer.TimerPage"
+             BackgroundColor="Blue">
+  <ContentPage.Content>
+    
+    <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
+      <Entry x:Name="_EntryTime" Placeholder="Enter Time" PlaceholderColor="White" HorizontalTextAlignment="Center"></Entry>
+      <Button x:Name="_btnTimerStarter" Text="Start" Clicked="TimerStarterClicked"></Button>
+      <Label x:Name="_lblTimeText" Text="Time" TextColor="Yellow" FontSize="20" HorizontalTextAlignment="Center"  />
+      <Label x:Name="_lblTime" Text="0" TextColor="Yellow" FontSize="50" HorizontalTextAlignment="Center" />
+      <Label Text="Erbayat.Com" TextColor="White" HorizontalOptions="Center"></Label>
+    </StackLayout>
+   
+  </ContentPage.Content>
+</ContentPage>
