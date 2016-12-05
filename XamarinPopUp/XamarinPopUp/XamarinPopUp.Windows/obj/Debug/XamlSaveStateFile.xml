@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\xamarinpopup\xamarinpopup.windows\obj\debug\intermediatexaml\xamarinpopup.windows.exe" HashGuid="3408e5c6-2a16-e406-427e-dc87f2be7049" />
+    <ReferenceAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\packages\rg.plugins.popup.1.0.4\lib\portable-win+net45+wp8+win8+wpa81\rg.plugins.popup.dll" HashGuid="88b1f10e-6bed-d1c7-a475-918edcbe4d06" />
+    <ReferenceAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\packages\rg.plugins.popup.1.0.4\lib\portable-win+net45+wp8+win8+wpa81\rg.plugins.popup.platform.dll" HashGuid="00d7a91d-790c-d61d-2b19-b0c9d50e7974" />
+    <ReferenceAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.core.dll" HashGuid="8fd6d715-5b1e-67fd-feee-b3bb9cc9acd7" />
+    <ReferenceAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="6cda1a83-1d8e-d2d4-211d-d5f3a06554ab" />
+    <ReferenceAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\packages\xamarin.forms.2.3.3.168\lib\win81\xamarin.forms.xaml.dll" HashGuid="5a0f8f23-7317-5e4b-74d2-2bf18c289c53" />
+    <ReferenceAssembly PathName="c:\users\erbayat\documents\visual studio 2015\projects\xamarinpopup\xamarinpopup\xamarinpopup\bin\debug\xamarinpopup.dll" HashGuid="2c9b31b6-443d-7642-7e65-dfd19590d437" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

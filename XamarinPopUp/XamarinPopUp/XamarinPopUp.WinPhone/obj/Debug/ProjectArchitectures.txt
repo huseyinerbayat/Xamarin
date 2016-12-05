@@ -1,0 +1,2 @@
+C:\Users\Erbayat\Documents\Visual Studio 2015\Projects\XamarinPopUp\XamarinPopUp\XamarinPopUp.WinPhone\XamarinPopUp.WinPhone.csproj;neutral
+C:\Users\Erbayat\Documents\Visual Studio 2015\Projects\XamarinPopUp\XamarinPopUp\XamarinPopUp\XamarinPopUp.csproj;neutral
