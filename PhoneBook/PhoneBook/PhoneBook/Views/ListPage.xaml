@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PhoneBook.Views.ListPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="_addPerson" Text="Kişi Ekle"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        
+        <StackLayout Padding="10">
+            <StackLayout Orientation="Vertical"
+                         VerticalOptions="FillAndExpand">
+                <SearchBar x:Name="_searchBarBook" Placeholder="İsim, numara"></SearchBar>
+            
+                <ListView x:Name="_lstPersons"
+                      ItemsSource="{Binding .}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                            <StackLayout>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label x:Name="_lblpersonName" Text="{Binding Name}" FontAttributes="Bold"></Label>
+                                        <Label x:Name="_lblpersonSurname" Text="{Binding Surname}" FontAttributes="Bold"></Label>
+                                    </StackLayout>
+                                    <StackLayout>
+                                    <Label x:Name="_lblpersonPhoneNumber" Text="{Binding PhoneNumber}"></Label>
+                                </StackLayout>
+                            </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
