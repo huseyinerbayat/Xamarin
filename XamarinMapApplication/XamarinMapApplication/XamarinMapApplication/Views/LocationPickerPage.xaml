@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinMapApplication.Views.LocationPickerPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Konum Seçimi:"></Label>
+            <StackLayout Orientation="Horizontal">
+                <Picker x:Name="_pickerLocation" ItemsSource="{Binding .}" 
+                        Title="Lütfen bir yer seçiniz" 
+                        ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding Id}" 
+                        HorizontalOptions="FillAndExpand"></Picker>
+                <Image x:Name="_imgMap" Source="{Binding Source=maps.png, Converter={StaticResource imageConverter}}"
+                       WidthRequest="36" HeightRequest="36"></Image>
+            </StackLayout>
+            
+            <Button x:Name="_btnShowSelectedLocation" Text="Seçili Konum Bilgileri" 
+                    Clicked="_btnShowSelectedLocation_Clicked"></Button>
+            <Label Text="Erbayat.Com" VerticalOptions="End" HorizontalTextAlignment="Center" />
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

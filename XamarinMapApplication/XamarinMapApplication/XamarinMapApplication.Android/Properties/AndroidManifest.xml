@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+	<uses-sdk android:minSdkVersion="15" />
+  <application android:label="XamarinMapApplication.Android">
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDdFMXb1jKAcv43zCXX3xQ1_c8fSeiGs4c" />
+  </application>
+</manifest>
